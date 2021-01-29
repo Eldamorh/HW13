@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        //Задание 1
+        //Задание 1
         LocalDateTime startOfTheLectionInMonday = LocalDateTime.of(2021, 1, 25, 20, 0);
         LocalDateTime endOfTheLectionInThursday = LocalDateTime.of(2021, 1, 28, 22, 0);
 
